@@ -118,7 +118,9 @@ section {
 	flex-direction: column;
 	justify-content: space-between;
 }
-
+.aboutme p {
+  margin-bottom: 1em;
+}
 .skills ul li {
   list-style-type: none; 
   font-family: roboto;
