@@ -183,10 +183,6 @@ section {
 
 }
 
-.container--narrow {
-  max-width: 34rem;
-}
-
 .footer {
   color: white;
   background-color: black;
