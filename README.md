@@ -1,7 +1,7 @@
 # personal-site
 ____
 ## Description
-I started my IT journey by learning html. I made this simple website as my homework.
+I started my IT journey by learning html and CSS. I made this simple website as my homework.
 
 At the time of writing this readme, I am looking for a job as a software tester. Therefore, this site is not only my homework but also a tool for finding a job.
 
