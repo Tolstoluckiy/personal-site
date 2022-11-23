@@ -5,7 +5,7 @@ I started my IT journey by learning html and CSS. I made this simple website as 
 
 At the time of writing this readme, I am looking for a job as a software tester. Therefore, this site is not only my homework but also a tool for finding a job.
 
-This is a simple, minimalistic landing page that includes several blocks, with my resume, my interests and skills, and contact information.
+This is a simple, minimalistic landing page that includes several blocks: resume, interests, skills, and contact information.
 
 I made the layout of the site relatively quickly, but for a very long time I could not figure out how to make it responsive for mobile devices.
 
