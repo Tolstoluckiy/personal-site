@@ -3,7 +3,7 @@ ____
 ## Description
 I started my IT journey by learning html and CSS. I made this simple website as my homework.
 
-At the time of writing this readme, I am looking for a job as a software tester. Therefore, this site is not only my homework but also a tool for finding a job.
+At the time of writing this readme, I am looking for a job as a QA engineer. Therefore, this site is not only my homework but also a tool for finding a job.
 
 This is a simple, minimalistic landing page that includes several blocks: resume, interests, skills, and contact information.
 
