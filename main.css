@@ -247,12 +247,12 @@ section {
   text-align: center;
 }
 
-.behance_logo {
+.contats_logo {
   
-  width: 50px;
+  width: 40px;
   transition: 0.3s;
 }
 
-.behance_logo:hover{
+.contats_logo:hover{
   opacity: 0.5;
 }
